@@ -1,0 +1,9 @@
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\MusicMenu.deps.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\MusicMenu.runtimeconfig.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\MusicMenu.runtimeconfig.dev.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\MusicMenu.dll
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\MusicMenu.pdb
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\MusicMenu.csproj.CoreCompileInputs.cache
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\MusicMenu.AssemblyInfo.cs
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\MusicMenu.dll
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\MusicMenu.pdb
