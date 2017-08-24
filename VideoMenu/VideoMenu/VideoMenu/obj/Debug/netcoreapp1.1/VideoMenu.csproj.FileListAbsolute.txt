@@ -1,0 +1,10 @@
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\VideoMenu.deps.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\VideoMenu.runtimeconfig.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\VideoMenu.runtimeconfig.dev.json
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\VideoMenu.dll
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\bin\Debug\netcoreapp1.1\VideoMenu.pdb
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\VideoMenu.csprojResolveAssemblyReference.cache
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\VideoMenu.csproj.CoreCompileInputs.cache
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\VideoMenu.AssemblyInfo.cs
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\VideoMenu.dll
+C:\Users\Dienes Mariann\source\repos\VideoMenu\VideoMenu\obj\Debug\netcoreapp1.1\VideoMenu.pdb
