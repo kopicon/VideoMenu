@@ -1,0 +1,12 @@
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListBLL.deps.json
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListBLL.dll
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListBLL.pdb
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListDAL.dll
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListEntities.dll
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListDAL.pdb
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\bin\Debug\netcoreapp1.1\MusicListEntities.pdb
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\obj\Debug\netcoreapp1.1\MusicListBLL.csprojResolveAssemblyReference.cache
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\obj\Debug\netcoreapp1.1\MusicListBLL.csproj.CoreCompileInputs.cache
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\obj\Debug\netcoreapp1.1\MusicListBLL.AssemblyInfo.cs
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\obj\Debug\netcoreapp1.1\MusicListBLL.dll
+C:\Users\Dienes Mariann\source\repos\MusicListUI\MusicListBLL\obj\Debug\netcoreapp1.1\MusicListBLL.pdb

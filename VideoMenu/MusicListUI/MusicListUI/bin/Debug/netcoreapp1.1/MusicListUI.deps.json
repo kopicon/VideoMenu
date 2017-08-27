@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "musiclistui/1.0.0": {
+        "dependencies": {
+          "MusicListBLL": "1.0.0",
+          "MusicListEntities": "1.0.0"
+        },
+        "runtime": {
+          "MusicListUI.dll": {}
+        }
+      },
+      "musiclistbll/1.0.0": {
+        "dependencies": {
+          "MusicListDAL": "1.0.0",
+          "MusicListEntities": "1.0.0"
+        },
+        "runtime": {
+          "MusicListBLL.dll": {}
+        }
+      },
+      "musiclistdal/1.0.0": {
+        "dependencies": {
+          "MusicListEntities": "1.0.0"
+        },
+        "runtime": {
+          "MusicListDAL.dll": {}
+        }
+      },
+      "musiclistentities/1.0.0": {
+        "runtime": {
+          "MusicListEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "musiclistui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "musiclistbll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "musiclistdal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "musiclistentities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
